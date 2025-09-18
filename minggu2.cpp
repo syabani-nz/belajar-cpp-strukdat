@@ -1,3 +1,5 @@
+// Praktikum Array dan Vector
+// Minggu ke-2
 #include <iostream>
 #include <vector>
 
